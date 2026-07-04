@@ -1,0 +1,15 @@
+{
+  "printJobId": 25,
+  "labelId": 12,
+  "labelType": "PRODUCT",
+  "templateReference": "C:\\LPS\\Labels\\ProductEan_v1.nlbl",
+  "templateVersionNo": 1,
+  "printerName": "SATO CL4NX",
+  "copies": 2,
+  "isReprint": false,
+  "productCode": "LLPP",
+  "productName": "Nowy Majonez",
+  "description": "Majonez 450 ml",
+  "ean": "5901234567890",
+  "gtin": "05901234567897"
+}
