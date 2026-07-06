@@ -1,0 +1,22 @@
+{
+  "printJobId": 52,
+  "labelId": 42,
+  "labelType": "PRODUCTION",
+  "templateReference": "C:\\LPS\\Labels\\LabelProduction.nlbl",
+  "templateVersionNo": 1,
+  "previewFilePath": "C:\\LPS\\PreviewCache\\print-job-52.png",
+
+  "productCode": "OKNFPP10",
+  "productName": "Okno dachowe FPP 114x118",
+  "description": "Okno dachowe FAKRO FPP 114x118 obrotowe szyba standard U3",
+  "ean": "3453455345",
+  "gtin": "3435",
+
+  "productionOrderNumber": "ZP/2026/0001",
+  "lotNumber": "LOT1",
+  "productionDate": "2026-07-06",
+  "expirationDate": "2026-07-06",
+  "productionLine": "Line2",
+  "shiftCode": "A",
+  "producedQuantity": 100
+}
